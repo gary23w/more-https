@@ -15,7 +15,7 @@ import java.net.HttpURLConnection
 import java.net.URL
 
 
-const val BASE_URL = "https://taskie-rw.herokuapp.com"
+const val BASE_URL = ""
 
 class RemoteApi {
 
